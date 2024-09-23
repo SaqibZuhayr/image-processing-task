@@ -54,7 +54,7 @@ The **Image Processing Service** listens to an AWS SQS queue for messages, fetch
 ## Installation
 
 1. **Clone the repository**:
-   'git clone https://github.com/SaqibZuhayr/image-processing'
+   'git clone https://github.com/SaqibZuhayr/image-processing-task'
 
 ### Image Upload Service
 
